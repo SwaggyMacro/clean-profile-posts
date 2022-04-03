@@ -1,5 +1,5 @@
 {
-  "name": "reflar/clean-profile-posts",
+  "name": "SwaggyMacro/clean-profile-posts",
   "description": "Removes the initial posts of discussions from the user's profile posts list",
   "keywords": [
     "flarum"
